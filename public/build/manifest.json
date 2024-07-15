@@ -1,0 +1,38 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.4e7380ac.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app.4a782a8b.css"
+    ],
+    "assets": [
+      "assets/Galano-Grotesque.3a66f71d.ttf"
+    ]
+  },
+  "resources/css/footer.css": {
+    "file": "assets/footer.17fc470f.css",
+    "src": "resources/css/footer.css",
+    "isEntry": true
+  },
+  "resources/css/header.css": {
+    "file": "assets/header.9792c73f.css",
+    "src": "resources/css/header.css",
+    "isEntry": true
+  },
+  "resources/sass/style.scss": {
+    "file": "assets/style.bbb0595c.css",
+    "src": "resources/sass/style.scss",
+    "isEntry": true
+  },
+  "resources/css/theme.css": {
+    "file": "assets/theme.76f84262.css",
+    "src": "resources/css/theme.css",
+    "isEntry": true
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.560ad7f8.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  }
+}
